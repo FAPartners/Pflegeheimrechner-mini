@@ -175,17 +175,16 @@ st.subheader("Interessiert an einer detaillierten Analyse?")
 
 st.markdown(
     """
-    Unsere **Vollversion des Rechners** und unsere **persönliche Beratung** ermöglichen Ihnen:
+    Unsere **persönliche Beratung** ermöglicht Ihnen:
 
     * Detaillierte Szenarienvergleiche (Ist-Situation vs. Neubauvarianten)
     * Berücksichtigung von fixen und variablen Kosten mit Skalierung
-    * **Variable Zinssätze** (effektiv vs. kalkulatorisch) für Sensitivitätsanalysen
+    * **Variable Zinssätze** für Sensitivitätsanalysen
     * Einbezug von "Wohnen im Alter" (WiA)
     * Abbildung von Planungs- und Bauphasen mit Finanzierungsbedarf
     * Detaillierte KPI-Analyse (Margen, Kostenquoten, Verschuldungsfaktor)
-    * Export der Ergebnisse nach Excel
 
-    **Kontaktieren Sie uns für die Vollversion oder eine unverbindliche Erstberatung!**
+    **Kontaktieren Sie uns für eine unverbindliche Erstberatung!**
     """
 )
 
@@ -200,3 +199,4 @@ st.markdown("---")
 st.markdown("**FINACCESS**")
 st.markdown("Gubelstrasse 11, 6300 Zug")
 st.markdown("Ansprechperson: André Hummel | E-Mail: andre.hummel@finaccess.ch")
+
